@@ -1,9 +1,5 @@
 - 👋 Ayo Buddy! My name is Akshay Kapoor
 - 👀 I’m interested in Shipping cool products
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to work on Web3 projects
-- 📫 Reach me @ twitter.com/akshxykapoor
-- 🧿Most of my dumb work is in private repos!
 - My Skills 👇
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,solidity,tailwindcss,react,next,figma,git,github,vscode)](https://skillicons.dev)
